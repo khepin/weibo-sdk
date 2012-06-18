@@ -1,0 +1,6 @@
+{
+    "name": "khepin/weibo-sdk",
+    "autoload": {
+        "classmap": ["src/saetv2.ex.class.php"]
+    }
+}
